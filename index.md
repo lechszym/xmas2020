@@ -1,3 +1,8 @@
+## Christmas 2020 heading
+
+![image](/assets/images/20201215_193259.jpg)
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/lechszym/xmas2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
